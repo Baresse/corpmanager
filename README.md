@@ -27,6 +27,6 @@ Installation
 
         cp corp-manager.war $CATALINA_HOME/webapps
 
-3. Use embedded Tomcat 8. Make sure to have your application.properties file in the same directory as the WAR file and then :
+3. Use embedded Tomcat 8. Make sure to have your **application.properties** file is in the same directory as the WAR file and then :
 
         jar -jar corp-manager.war
